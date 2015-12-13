@@ -1,7 +1,8 @@
 /**
  * @fileoverview Rule to enforce the number of spaces after certain keywords
- * @author Nick Fisher
- * @copyright 2014 Nick Fisher. All rights reserved.
+ * @author Mato Ilic
+ * 
+ * Based on the original space-before-keywords rule by Nick Fisher
  */
 "use strict";
 
@@ -13,9 +14,9 @@ module.exports = function(context) {
     /**
      * Check if the separation of two adjacent tokens meets the spacing rules, and report a problem if not.
      *
-     * @param {ASTNode} node  The node to which the potential problem belongs.
-     * @param {Token} left    The first token.
-     * @param {Token} right   The second token
+     * @param {ASTNode} node The node to which the potential problem belongs.
+     * @param {Token} left The first token.
+     * @param {Token} right The second token
      * @returns {void}
      */
     function checkTokens(node, left, right) {
