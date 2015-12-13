@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-angular-lazy",
+  "version": "0.1.0",
+  "description": "ESLint configuration for projects based on Lazy Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matoilic/eslint-config-angular-lazy.git"
+  },
+  "keywords": [
+    "angular",
+    "eslint"
+  ],
+  "author": "Mato Ilic",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/matoilic/eslint-config-angular-lazy/issues"
+  },
+  "homepage": "https://github.com/matoilic/eslint-config-angular-lazy#readme"
+}
