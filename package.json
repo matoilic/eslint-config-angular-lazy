@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/matoilic/eslint-config-angular-lazy/issues"
   },
-  "homepage": "https://github.com/matoilic/eslint-config-angular-lazy#readme"
+  "homepage": "https://github.com/matoilic/eslint-config-angular-lazy#readme",
+  "dependencies": {
+    "eslint": "1.10.3",
+    "eslint-config-airbnb": "2.0.0"
+  }
 }
