@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-angular-lazy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint configuration for projects based on Lazy Angular (https://github.com/matoilic/generator-angular-lazy)",
   "main": "index.js",
   "repository": {
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/matoilic/eslint-config-angular-lazy#readme",
   "dependencies": {
-    "eslint": "1.10.3",
-    "eslint-config-airbnb": "2.0.0"
+    "eslint": "^2.3.0",
+    "eslint-config-airbnb": "^6.1.0"
   }
 }

@@ -11,6 +11,10 @@ module.exports = {
     rules: {
         indent: [2, 4],
         'comma-dangle': [2, 'never'],
-        'func-names': 0
+        'func-names': 0,
+        'max-len': [2, 120, 2, {
+            'ignoreUrls': true,
+            'ignoreComments': false
+        }]
     }
 };
