@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-angular-lazy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ESLint configuration for projects based on Lazy Angular (https://github.com/matoilic/generator-angular-lazy)",
   "main": "index.js",
   "repository": {
