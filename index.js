@@ -14,7 +14,7 @@ module.exports = {
         'func-names': 0,
         'max-len': [2, 120, 2, {
             'ignoreUrls': true,
-            'ignoreComments': false
+            'ignoreComments': true
         }]
     }
 };
